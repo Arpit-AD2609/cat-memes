@@ -1,19 +1,68 @@
-# Getting Started
-Install the dependencies and run the project
+# Cat Memes 🐱
+
+A fun meme picker web app built with JavaScript, HTML, and CSS.
+
+Users can select their current emotion and receive a matching cat image or GIF.
+
+## Features
+
+* Select an emotion from a list
+* Filter results to show GIFs only
+* Randomly displays a matching cat meme
+* Modal popup for displaying images
+* Responsive and simple UI
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript (ES6 Modules)
+* Vite
+
+## Screenshots
+
+*Add screenshots here after deployment.*
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Arpit-AD2609/cat-memes.git
 ```
+
+Navigate into the project folder:
+
+```bash
+cd cat-memes
+```
+
+Install dependencies:
+
+```bash
 npm install
-npm start
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Start the development server:
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+```bash
+npm run dev
+```
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Live Demo
 
-Happy Coding!
+Add your Vercel deployment URL here after deployment.
+[YET TO BE ADDED]
+
+## What I Learned
+
+* Working with JavaScript modules
+* Filtering arrays with `.filter()`
+* Event listeners and DOM manipulation
+* Conditional rendering
+* Using Vite for development and deployment
+* Git and GitHub workflow
+
+## Author
+
+Arpit Devashetti
